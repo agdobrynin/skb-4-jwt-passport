@@ -1,5 +1,4 @@
-# Lesson 4 with  SKB
-## Babel Starter Kit
+# Babel Starter Kit
 
 [![NPM version](http://img.shields.io/npm/v/generator-javascript.svg?style=flat-square)](https://www.npmjs.com/package/generator-javascript)
 [![NPM downloads](http://img.shields.io/npm/dm/generator-javascript.svg?style=flat-square)](https://www.npmjs.com/package/generator-javascript)

@@ -1,4 +1,5 @@
-function hello(name) {
-  console.log(`Hello ${name}`); // eslint-disable-line
-}
-hello('JS World!!');
+import config from './config';
+import App from './App';
+
+const app = new App({ config });
+app.run();
